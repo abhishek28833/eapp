@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199739167497",
+    "project_id": "sign-example-ea52d",
+    "storage_bucket": "sign-example-ea52d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199739167497:android:5507e7f361fd4f86db79d8",
+        "android_client_info": {
+          "package_name": "com.example.eapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVl77vm7UK-cqcdpGj1ySENchheR-g2Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
